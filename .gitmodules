@@ -1,0 +1,3 @@
+[submodule "SWLocalization"]
+	path = SWLocalization
+	url = https://github.com/Suprithahn/SWLocalization.git
